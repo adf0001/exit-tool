@@ -1,0 +1,24 @@
+{
+  "name": "exit-tool",
+  "version": "1.0.1",
+  "description": "an exit tool with ppid-exit and timeout",
+  "main": "exit-tool.js",
+  "scripts": {
+    "test": "cmd /k mocha"
+  },
+  "keywords": [
+    "exit",
+    "tool"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/exit-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/exit-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/exit-tool#readme",
+  "dependencies": {}
+}
